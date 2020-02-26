@@ -2,18 +2,69 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="lib/rest_server_api.jar"/>
-	<classpathentry kind="lib" path="lib/slf4j-api-1.6.2.jar"/>
-	<classpathentry kind="lib" path="lib/jersey-common.jar"/>
-	<classpathentry kind="lib" path="lib/hk2-utils-2.4.0-b06.jar"/>
+	<classpathentry kind="lib" path="lib/aopalliance-repackaged-2.4.0-b06.jar"/>
+	<classpathentry kind="lib" path="lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="lib/asm-debug-all-5.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/bonecp-0.7.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/grizzly-framework-2.3.16.jar"/>
+	<classpathentry kind="lib" path="lib/grizzly-http-2.3.16.jar"/>
+	<classpathentry kind="lib" path="lib/grizzly-http-client-1.8.jar"/>
+	<classpathentry kind="lib" path="lib/grizzly-http-server-2.3.16.jar"/>
+	<classpathentry kind="lib" path="lib/grizzly-http-servlet-2.3.16.jar"/>
+	<classpathentry kind="lib" path="lib/grizzly-http.jar"/>
+	<classpathentry kind="lib" path="lib/grizzly-websockets-2.3.16.jar"/>
+	<classpathentry kind="lib" path="lib/guava-12.0.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-1.3.jar"/>
 	<classpathentry kind="lib" path="lib/hk2-api-2.4.0-b06.jar"/>
 	<classpathentry kind="lib" path="lib/hk2-locator-2.4.0-b06.jar"/>
+	<classpathentry kind="lib" path="lib/hk2-utils-2.4.0-b06.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-asl-1.9.11.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-jaxrs-1.9.11.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.9.11.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-xc-1.9.11.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="lib/javax.annotation-api-1.2.jar"/>
 	<classpathentry kind="lib" path="lib/javax.inject-2.4.0-b06.jar"/>
 	<classpathentry kind="lib" path="lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="lib/jdbm-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/je-5.0.58.jar"/>
 	<classpathentry kind="lib" path="lib/jersey-client.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-common.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-container-grizzly2-http-2.12.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-container-grizzly2-servlet-2.12.jar"/>
 	<classpathentry kind="lib" path="lib/jersey-container-servlet-core.jar"/>
 	<classpathentry kind="lib" path="lib/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="lib/jersey-grizzly-connector-2.12.jar"/>
 	<classpathentry kind="lib" path="lib/jersey-guava-2.14.jar"/>
 	<classpathentry kind="lib" path="lib/jersey-server.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jsch-0.1.51.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-2.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/logback-custom.jar"/>
+	<classpathentry kind="lib" path="lib/lucene_api.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-analyzers-common-4.10.3.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-4.10.3.jar"/>
+	<classpathentry kind="lib" path="lib/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/reflections-0.9.9-RC1.jar"/>
+	<classpathentry kind="lib" path="lib/rest_server_api.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/util-api.jar"/>
+	<classpathentry kind="lib" path="lib/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/xlightweb-2.9.1-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="lib/xz-1.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
